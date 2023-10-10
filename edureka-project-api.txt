@@ -3,3 +3,5 @@ make sure i do the things that have to
 be done to get better 
 okay now lets get this poppy rolling 
 its time to go.
+at least now we are able to trace the issues we have been 
+having so hopefully we can resolve them.
