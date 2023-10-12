@@ -5,5 +5,7 @@ okay now lets get this poppy rolling
 its time to go.
 at least now we are able to trace the issues we have been 
 having so hopefully we can resolve them.
-okay now we have a co laborator lets walk through
-this scenarios making sure it all works as intended.
+okay now we have a co caborator lets walk through
+this scenarios making sure it all works as intended
+okay lets make more changes here and see what happens 
+it better work or else i will cry lol 
