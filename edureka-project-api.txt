@@ -7,3 +7,5 @@ at least now we are able to trace the issues we have been
 having so hopefully we can resolve them.
 okay now we have a co laborator lets walk through
 this scenarios making sure it all works as intended.
+okay we have made a new branch time to commit some changes and see 
+how tha affects everything right lol 
