@@ -5,7 +5,6 @@ okay now lets get this poppy rolling
 its time to go.
 at least now we are able to trace the issues we have been 
 having so hopefully we can resolve them.
-<<<<<<< HEAD
 okay now we have a co caborator lets walk through
 this scenarios making sure it all works as intended
 okay lets make more changes here and see what happens 
@@ -18,3 +17,7 @@ yes exactly you know am right.
 okay lets do a little practice to amke sure we are good 
 so we are getting some scenes here 
 not sure why but we will figure it out together.
+yes exactly you know am right
+okay so many interesting things are happening and am learning 
+even more so happy now.. 
+yes exactly you know am right.
