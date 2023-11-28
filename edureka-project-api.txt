@@ -4,29 +4,31 @@ be done to get better
 okay now lets get this poppy rolling 
 its time to go.
 at least now we are able to trace the issues we have been 
-having so hopefully we can resolve them.
-okay now we have a co caborator lets walk through
-this scenarios making sure it all works as intended
-okay lets make more changes here and see what happens 
+having so hopefully, we can resolve them.
+okay now we have a co laboratory lets walkthrough
+this scenario making sure it all works as intended
+okay let's make more changes here and see what happens 
 it better work or else i will cry lol 
-okay now we have a co laborator lets walk through
-this scenarios making sure it all works as intended.
+okay now we have a co laboratory lets walkthrough
+this scenario making sure it all works as intended.
 okay we have made a new branch time to commit some changes and see
 Vim editor is better than vi change my mind
 yes exactly you know am right. 
 okay lets do a little practice to amke sure we are good 
 so we are getting some scenes here 
-not sure why but we will figure it out together.
+we will figure it out together.
 yes exactly you know am right
 okay so many interesting things are happening and am learning 
 even more so happy now.. 
-yes exactly you know am right.
+yes exactly you know I am right.
 time for more changes lol this might break the whole thing 
-but who cares right right.
-So now i am working with Jenkins 
-lets see how this affect the whole thing.
+but who cares right?
+So now I am working with Jenkins 
+let's see how this affects the whole thing.
 So now we have all the systems 
-working together now testing git hub 
+working together now testing the git hub 
 picking up a commit and building auto lets see
-Os far test is working good 
-now we have to trigger and auto build.
+Os far, the test is working good 
+now we have to trigger and auto-build.
+okay so far i think we are looking good.
+please work work.
