@@ -25,3 +25,6 @@ time for more changes lol this might break the whole thing
 but who cares right right.
 So now i am working with Jenkins 
 lets see how this affect the whole thing.
+So now we have all the systems 
+working together now testing git hub 
+picking up a commit and building auto lets see
