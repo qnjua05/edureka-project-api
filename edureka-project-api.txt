@@ -32,3 +32,5 @@ Os far, the test is working good
 now we have to trigger and auto-build.
 okay so far i think we are looking good.
 please work work.
+looks like the hook is building lets run another test
+and see what happens.
