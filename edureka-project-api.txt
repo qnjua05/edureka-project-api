@@ -34,3 +34,5 @@ okay so far i think we are looking good.
 please work work.
 looks like the hook is building lets run another test
 and see what happens.
+we have to make this work 
+one way or another.
